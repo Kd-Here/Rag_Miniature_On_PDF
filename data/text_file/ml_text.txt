@@ -1,0 +1,9 @@
+Machine Learning is a branch of artificial intelligence that enables computers to learn patterns from data and make decisions or predictions without being explicitly programmed. Instead of following fixed rules, machine learning systems improve their performance as they are exposed to more data.
+
+Machine learning algorithms are generally divided into three main categories: supervised learning, unsupervised learning, and reinforcement learning. In supervised learning, models are trained using labeled data. In unsupervised learning, the system identifies hidden patterns in unlabeled data. Reinforcement learning focuses on learning through rewards and penalties.
+
+Machine learning is widely used in real-world applications such as recommendation systems, fraud detection, speech recognition, image classification, autonomous vehicles, and medical diagnosis. Popular machine learning libraries include Scikit-learn, TensorFlow, Keras, and PyTorch.
+
+The machine learning workflow typically involves data collection, data preprocessing, feature engineering, model training, evaluation, and deployment. The quality of data plays a major role in the performance of machine learning models.
+
+As industries continue to generate massive amounts of data, machine learning has become an essential technology for automation, analytics, and intelligent decision-making across many domains.
